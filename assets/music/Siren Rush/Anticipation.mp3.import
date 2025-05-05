@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://sond3jau4ecs"
+path="res://.godot/imported/Anticipation.mp3-12e78110dce06d3842d3b9c15316f9e0.mp3str"
+
+[deps]
+
+source_file="res://assets/music/Siren Rush/Anticipation.mp3"
+dest_files=["res://.godot/imported/Anticipation.mp3-12e78110dce06d3842d3b9c15316f9e0.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

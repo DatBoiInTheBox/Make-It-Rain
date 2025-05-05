@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://8x46rtfaognf"
+path="res://.godot/imported/Stealth Phase 3,4,5.mp3-b40676331700f7b2e85b430ae5b9a321.mp3str"
+
+[deps]
+
+source_file="res://assets/music/Siren Rush/Stealth Phase 3,4,5.mp3"
+dest_files=["res://.godot/imported/Stealth Phase 3,4,5.mp3-b40676331700f7b2e85b430ae5b9a321.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

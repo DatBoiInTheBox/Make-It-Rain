@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://4j32sp3kv1b1"
+path="res://.godot/imported/Control.mp3-8232c7cd143f6683462e43f047d0066b.mp3str"
+
+[deps]
+
+source_file="res://assets/music/Siren Rush/Control.mp3"
+dest_files=["res://.godot/imported/Control.mp3-8232c7cd143f6683462e43f047d0066b.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4
